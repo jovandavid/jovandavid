@@ -1,4 +1,9 @@
 <div id="header" align="center">
+  <img src="https://giphy.com/embed/ftAyb0CG1FNAIZt4SO" width="100"/>
+</div>
+
+
+<div id="header" align="center">
   <img src="https://drive.google.com/file/d/1lAG-XqeGtTFbv4wEpM8l3iwvvEcWHgSI/" width="100"/>
 </div>
 <div id="badges">
@@ -11,9 +16,10 @@
 </div>
 ### Hi there 👋
 
-# AI
+# Beyond AI
 I have been researching AI/ML for 20+ years, from agents, bioinformatics, bio-inspired algorithms, to robotics, NLP, and image processing.  I have been applying AI on projects related to medicine, education, rehabilitation, AR, space, innovation, etc. 
 
+Besides R&D in AI, I have been consultant in exponential and emerging technologies to world wide organizations, like Singularity, SONY and UN, among others. 
 
 - :telescope: I’m impacting the world in different projects like predicting wildfires, quantum robotics, hybrid AI algorithms, future of AI, etc.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/jovandavid/)
