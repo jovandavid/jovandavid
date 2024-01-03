@@ -1,10 +1,8 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/ftAyb0CG1FNAIZt4SO" width="100"/>
-  <img src="https://github.com/jovandavid/img/assets/1300009/9fb2af14-bacb-486c-aeed-a315cba7dce3" width="100"/>
+  <img src="https://github.com/jovandavid/img/assets/1300009/9fb2af14-bacb-486c-aeed-a315cba7dce3" width="150"/>
+  <img src="https://github.com/jovandavid/img/assets/1300009/10a4a3ea-95fa-4fff-8d14-778ad4194975" width="150"/>
 </div>
-
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jovandavid/">
     <img src="https://img.shields.io/badge/linkedin-blue" alt="LinkedIn Badge"/>
   </a>
