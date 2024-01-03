@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="(https://twitter.com/jovandavid)">
-    <img src="[https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/X-black)" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-black" alt="Twitter Badge"/>
   </a>
 </div>
 ### Hi there 👋
@@ -68,5 +68,6 @@ Others:
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
+https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
 
 -->
