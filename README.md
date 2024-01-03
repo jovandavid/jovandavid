@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/jovandavid/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-blue" alt="LinkedIn Badge"/>
   </a>
   <a href="(https://twitter.com/jovandavid)">
     <img src="https://img.shields.io/badge/X-black" alt="Twitter Badge"/>
@@ -17,8 +17,6 @@ I have been researching AI/ML for 20+ years, from agents, bioinformatics, bio-in
 
 - :telescope: I’m impacting the world in different projects like predicting wildfires, quantum robotics, hybrid AI algorithms, future of AI, etc.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/jovandavid/)
-
-https://img.shields.io/badge/linkedin
 
 
 ### :hammer_and_wrench: Languages and Tools :
