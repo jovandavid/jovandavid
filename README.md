@@ -1,11 +1,9 @@
 <div id="header" align="center">
   <img src="https://giphy.com/embed/ftAyb0CG1FNAIZt4SO" width="100"/>
-</div>
-
-
-<div id="header" align="center">
   <img src="https://drive.google.com/file/d/1lAG-XqeGtTFbv4wEpM8l3iwvvEcWHgSI/" width="100"/>
 </div>
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/jovandavid/">
     <img src="https://img.shields.io/badge/linkedin-blue" alt="LinkedIn Badge"/>
