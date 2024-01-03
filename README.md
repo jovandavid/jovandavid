@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://giphy.com/embed/ftAyb0CG1FNAIZt4SO" width="100"/>
-  <img src="https://drive.google.com/file/d/1lAG-XqeGtTFbv4wEpM8l3iwvvEcWHgSI/" width="100"/>
+  <img src="https://github.com/jovandavid/img/assets/1300009/9fb2af14-bacb-486c-aeed-a315cba7dce3" width="100"/>
 </div>
 
 
