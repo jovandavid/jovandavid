@@ -16,7 +16,10 @@ I have been researching AI/ML for 20+ years, from agents, bioinformatics, bio-in
 
 
 - :telescope: I’m impacting the world in different projects like predicting wildfires, quantum robotics, hybrid AI algorithms, future of AI, etc.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jovandavid/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/jovandavid/)
+
+https://img.shields.io/badge/linkedin
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
