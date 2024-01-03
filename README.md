@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://github.com/jovandavid/img/assets/1300009/9fb2af14-bacb-486c-aeed-a315cba7dce3" width="150"/>
+  <img src="https://github.com/jovandavid/img/assets/1300009/9fb2af14-bacb-486c-aeed-a315cba7dce3" width="140"/>
 </div>
 <div id="header" align="center">
-  <img src="https://github.com/jovandavid/img/assets/1300009/10a4a3ea-95fa-4fff-8d14-778ad4194975" width="150"/>
+  <img src="https://github.com/jovandavid/img/assets/1300009/10a4a3ea-95fa-4fff-8d14-778ad4194975" width="140"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jovandavid/">
@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/X-black" alt="Twitter Badge"/>
   </a>
 </div>
-### Hi there 👋
 
 # Beyond AI
 I have been researching AI/ML for 20+ years, from agents, bioinformatics, bio-inspired algorithms, to robotics, NLP, and image processing.  I have been applying AI on projects related to medicine, education, rehabilitation, AR, space, innovation, etc. 
